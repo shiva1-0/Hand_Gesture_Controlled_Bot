@@ -30,10 +30,8 @@ These readings represent specific gestures, such as moving forward, backward, or
 - **Bot Movement**:The robot executes actions like moving forward, backward, left, or right based on the commands.
 
 ## Connections
-![nrf](https://github.com/user-attachments/assets/f73c6d5b-2127-43ca-b812-1812544bdc8c)
-  **Transmitter**
-![new t2](https://github.com/user-attachments/assets/7f817e12-d2ef-4b5e-9628-272f1373f8e4)
-  **Receiver**
-![new r](https://github.com/user-attachments/assets/7066f170-27da-4406-9984-7900ca1f41ef)
+ **Nano-nRF24**![nrf](https://github.com/user-attachments/assets/f73c6d5b-2127-43ca-b812-1812544bdc8c)
+ **Transmitter**![new t2](https://github.com/user-attachments/assets/7f817e12-d2ef-4b5e-9628-272f1373f8e4)
+ **Receiver**![new r](https://github.com/user-attachments/assets/7066f170-27da-4406-9984-7900ca1f41ef)
 
 
