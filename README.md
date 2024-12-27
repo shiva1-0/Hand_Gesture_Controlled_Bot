@@ -31,3 +31,6 @@ These readings represent specific gestures, such as moving forward, backward, or
 
 ## Connections
 ![Screenshot 2024-12-27 123212](https://github.com/user-attachments/assets/32f8f794-6059-4455-b81f-9208d83bb1ae)
+![Screenshot 2024-12-27 121708](https://github.com/user-attachments/assets/79640989-64bb-41ad-81e6-c7b04dd55263)
+![Screenshot 2024-12-27 121733](https://github.com/user-attachments/assets/e0170c1a-7e43-4c7f-88e4-f9d84c700bd3)
+
