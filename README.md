@@ -28,3 +28,6 @@ These readings represent specific gestures, such as moving forward, backward, or
 - **Data Transmission**:The transmitter unit sends the processed gesture data wirelessly to the robot using the nRF24 module.
 - **Signal Interpretation**:The robot’s microcontroller interprets the received data and converts it into movement commands.
 - **Bot Movement**:The robot executes actions like moving forward, backward, left, or right based on the commands.
+
+## Connections
+![Screenshot 2024-12-27 123212](https://github.com/user-attachments/assets/32f8f794-6059-4455-b81f-9208d83bb1ae)
