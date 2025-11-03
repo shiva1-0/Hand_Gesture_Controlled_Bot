@@ -36,8 +36,8 @@ void moveRight() {
   analogWrite(ENB, 130);
   digitalWrite(IN1, 1);
   digitalWrite(IN2, 0);
-  digitalWrite(IN3, 0);
-  digitalWrite(IN4, 1);
+  digitalWrite(IN3, 1);
+  digitalWrite(IN4, 0);
 }
 
 void moveLeft() {
@@ -45,15 +45,15 @@ void moveLeft() {
   analogWrite(ENB, 150);
   digitalWrite(IN1, 0);
   digitalWrite(IN2, 1);
-  digitalWrite(IN3, 1);
-  digitalWrite(IN4, 0);
+  digitalWrite(IN3, 0);
+  digitalWrite(IN4, 1);
 }
 
 void moveBack() {
   analogWrite(ENA, 150);
   analogWrite(ENB, 150);
-  digitalWrite(IN1, 1);
-  digitalWrite(IN2, 0);
+  digitalWrite(IN1, 0);
+  digitalWrite(IN2, 1);
   digitalWrite(IN3, 1);
   digitalWrite(IN4, 0);
 }
@@ -61,8 +61,8 @@ void moveBack() {
 void moveForward() {
   analogWrite(ENA, 150);
   analogWrite(ENB, 150);
-  digitalWrite(IN1, 0);
-  digitalWrite(IN2, 1);
+  digitalWrite(IN1, 1);
+  digitalWrite(IN2, 0);
   digitalWrite(IN3, 0);
   digitalWrite(IN4, 1);
 }
